@@ -1,0 +1,1 @@
+This script simulates historical stock data for leveraged ETFs based on an underlying index, using a user-defined leverage scalar. Simply input the baseline ticker and leverage value to generate the simulated data.
